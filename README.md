@@ -1,3 +1,4 @@
 Mysql学习笔记
 登录MySQL
-$ mysql -u root -p12345612
+cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+mysql -u root -p242178
